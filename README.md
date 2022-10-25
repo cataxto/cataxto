@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and cloud computing
 - 💞️ I’m looking to collaborate on software and data projects
 - 📫 How to reach me cataxto@gmail.com
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mcatalina-hernandez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/mcatalina-hernandez?trk=profile-badge">Catalina Hernández</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
               
 
 https://www.credly.com/users/maria-catalina-hernandez-casas/badges
